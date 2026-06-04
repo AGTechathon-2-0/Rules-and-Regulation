@@ -1,7 +1,7 @@
 # Rules-and-Regulation
 # AGTechathon 2k26
 
-![AGTechathon Logo](/AGTECHATHON2.0.jpeg)
+![AGTechathon Logo](./AGTECHATHON2.0.jpeg)
 
 ---
 
