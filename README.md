@@ -1,7 +1,7 @@
 # Rules-and-Regulation
 # AGTechathon 2k26
 
-![AGTechathon Logo](./AGTECHATHON2.0.png)
+![AGTechathon Logo](/AGTECHATHON2.0.jpeg)
 
 ---
 
@@ -61,7 +61,7 @@ Welcome to the official repository for **AGTechathon 2k26**! Please read the fol
 
 ## 📂 Repository & Submission
 
-- **Repo URL:** `https://github.com/AGTechathon/your-team-name`
+- **Repo URL:** `https://github.com/AGTechathon-2-0/your-team-name`
 - **Branch:** Push to `main` (or as instructed by organizers)
 - **Commit Messages:** Keep them clear and incremental (e.g., `feat: add login page`, `fix: resolve navbar bug`)
 
